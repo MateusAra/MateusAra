@@ -4,6 +4,8 @@
 ### Analista de Qualidade de Software.<br /><br/>
 📖 Veja minhas experiências [Linkedin](https://www.linkedin.com/in/mateus-de-sousa-araujo-a521a8234/)<br/>
 📸 Acesse o meu instagram [Instagram](https://www.instagram.com/mateus19araujo/)
+
+<!--
 <style>
   .componente {
     display: inline-block;
@@ -18,7 +20,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusAra&show_icons=true&locale=en&layout=compact" alt="Mateus Araújo" />
 </div>
 </br>
-
+/-->
 ## Languages and Tools:
 
 <p align="left">
