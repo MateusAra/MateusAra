@@ -1,7 +1,7 @@
-## Olá! 👋
+# Olá! 👋
 
-Eu sou o Mateus Araújo.<br/>
-Analista de Qualidade de Software.<br /><br/>
+### Eu sou o Mateus Araújo.<br/>
+### Analista de Qualidade de Software.<br /><br/>
 📖 Veja minhas experiências [Linkedin](https://www.linkedin.com/in/mateus-de-sousa-araujo-a521a8234/)<br/>
 📸 Acesse o meu instagram [Instagram](https://www.instagram.com/mateus19araujo/)
 <style>
