@@ -1,18 +1,11 @@
 # Olá! 👋
 
 ### Eu sou o Mateus Araújo.
-### Analista de Qualidade de Software.<br /><br/>
+### Analista de Qualidade de Software. <br/><br/>
 📖 Veja minhas experiências [Linkedin](https://www.linkedin.com/in/mateus-de-sousa-araujo-a521a8234/)<br/>
-📸 Acesse o meu instagram [Instagram](https://www.instagram.com/mateus19araujo/)
+📸 Acesse o meu instagram [Instagram](https://www.instagram.com/mateus19araujo/)<br/>
 
-
-<style>
-  .componente {
-    display: inline-block;
-    margin-right: 10px; 
-  }
-</style>
-
+<br/>
 <div class="componente">
     <img src="https://github-readme-stats.vercel.app/api?username=MateusAra&show_icons=true&locale=en" alt="Mateus Araújo" /> 
 </div>
@@ -20,8 +13,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusAra&show_icons=true&locale=en&layout=compact" alt="Mateus Araújo" />
 </div>
 </br>
-## Languages and Tools:
 
+## Languages and Tools:
+</br>
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="icons/c.svg" alt="C" width="40" height="40" /> 
