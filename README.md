@@ -6,11 +6,13 @@
 📸 Acesse o meu instagram [Instagram](https://www.instagram.com/mateus19araujo/)<br/>
 
 <br/>
-<div class="componente">
-    <img src="https://github-readme-stats.vercel.app/api?username=MateusAra&show_icons=true&locale=en" alt="Mateus Araújo" /> 
-</div>
-<div class="componente">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusAra&show_icons=true&locale=en&layout=compact" alt="Mateus Araújo" />
+<div style="display: flex;">
+    <div class="componente">
+        <img src="https://github-readme-stats.vercel.app/api?username=MateusAra&show_icons=true&locale=en" alt="Mateus Araújo" /> 
+    </div>
+    <div class="componente">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusAra&show_icons=true&locale=en&layout=compact" alt="Mateus Araújo" />
+    </div>
 </div>
 </br>
 
