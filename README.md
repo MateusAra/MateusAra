@@ -1,22 +1,15 @@
-# Olá! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#2C8BBF&height=120&section=header"/>
 
-### Eu sou o Mateus Araújo.
-### Analista de Qualidade de Software. <br/><br/>
-📖 Veja minhas experiências [Linkedin](https://www.linkedin.com/in/mateus-de-sousa-araujo-a521a8234/)<br/>
-📸 Acesse o meu instagram [Instagram](https://www.instagram.com/mateus19araujo/)<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=900&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=Bem+vindo!+Eu+sou+o+Mateus+Ara%C3%BAjo+;Sou+Analista+de+Qualidade+de+Software)](https://git.io/typing-svg)
+
+<div align="center">
+  <a href="https://github.com/MateusAra">
+  <img src="https://github-readme-stats.vercel.app/api?username=MateusAra&show_icons=true&locale=en" alt="Mateus Araújo" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusAra&show_icons=true&locale=en&layout=compact" alt="Mateus Araújo" />
+    
 
 <br/>
 
-<div class="container">
-  <div class="row">
-    <div class="col">
-      <img src="https://github-readme-stats.vercel.app/api?username=MateusAra&show_icons=true&locale=en" alt="Mateus Araújo" /> 
-    </div>
-    <div class="col">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusAra&show_icons=true&locale=en&layout=compact" alt="Mateus Araújo" />
-    </div>
-  </div>
-</div>
 <!--- <div style="display: flex;">
     <div class="componente">
         <img src="https://github-readme-stats.vercel.app/api?username=MateusAra&show_icons=true&locale=en" alt="Mateus Araújo" /> 
