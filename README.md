@@ -6,14 +6,25 @@
 📸 Acesse o meu instagram [Instagram](https://www.instagram.com/mateus19araujo/)<br/>
 
 <br/>
-<div style="display: flex;">
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <img src="https://github-readme-stats.vercel.app/api?username=MateusAra&show_icons=true&locale=en" alt="Mateus Araújo" /> 
+    </div>
+    <div class="col">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusAra&show_icons=true&locale=en&layout=compact" alt="Mateus Araújo" />
+    </div>
+  </div>
+</div>
+<!--- <div style="display: flex;">
     <div class="componente">
         <img src="https://github-readme-stats.vercel.app/api?username=MateusAra&show_icons=true&locale=en" alt="Mateus Araújo" /> 
     </div>
     <div class="componente">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusAra&show_icons=true&locale=en&layout=compact" alt="Mateus Araújo" />
     </div>
-</div>
+</div> --->
 </br>
 
 ## Languages and Tools:
