@@ -4,25 +4,15 @@
 
 <div align="center">
   <a href="https://github.com/MateusAra">
-  <img src="https://github-readme-stats.vercel.app/api?username=MateusAra&show_icons=true&locale=en" alt="Mateus Araújo" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusAra&show_icons=true&locale=en&layout=compact" alt="Mateus Araújo" />
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=MateusAra&show_icons=true&locale=en&theme=radical" alt="Mateus Araújo" /> 
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusAra&show_icons=true&locale=en&layout=compact&theme=radical" alt="Mateus Araújo" />
     
 
-<br/>
-
-<!--- <div style="display: flex;">
-    <div class="componente">
-        <img src="https://github-readme-stats.vercel.app/api?username=MateusAra&show_icons=true&locale=en" alt="Mateus Araújo" /> 
-    </div>
-    <div class="componente">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusAra&show_icons=true&locale=en&layout=compact" alt="Mateus Araújo" />
-    </div>
-</div> --->
 </br>
 
 ## Languages and Tools:
 </br>
-<p align="left">
+<p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="icons/c.svg" alt="C" width="40" height="40" /> 
     </a>   
@@ -47,5 +37,8 @@
     <a href="https://www.flaticon.com/br/icones-gratis/sql" target="_blank" rel="noreferrer"> 
         <img src="icons/servidor-sql.png" alt="SQL" width="40" height="40">
     </a>
-    
+       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Selenium.svg" height="40" width="52" alt="selenium logo"  />
+    <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" height="40" width="40" alt="cypress logo"  />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg" height="40" width="52" alt="postman logo"  />
 </p>
+
